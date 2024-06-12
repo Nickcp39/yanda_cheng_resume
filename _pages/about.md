@@ -28,21 +28,15 @@ This journey of over eight years reflects my dedication to innovation and excell
 
 **Investor**
 ======
-Over the past decade, my investment portfolio has flourished across diverse arenas such as real estate, technology stocks, and cryptocurrencies, each contributing significantly to my financial success.
+Over the past decade, my investment portfolio has flourished across diverse arenas such as <span style="font-size: larger; color: #006400;">real estate</span>, technology stocks, and cryptocurrencies, each contributing significantly to my financial success.
 
-**Real Estate Investments**:
-I have strategically acquired properties in major global economic centers including Beijing, California, Toronto, Xi'an, Yunnan, and Shanghai. These investments have not only yielded rich dividends but also provided a stable foundation for my portfolio, balancing out more volatile sectors.
+<span style="font-size: larger; color: #8A2BE2;">Real Estate Investments:</span> I have strategically acquired properties in major global economic centers including <span style="font-size: larger; color: #FF4500;">Beijing, California, Toronto, Xi'an, Yunnan, and Shanghai</span>. These investments have not only yielded rich dividends but also provided a stable foundation for my portfolio, balancing out more volatile sectors.
 
-**Technology Stocks**:
-My equity investments are carefully chosen, focusing on technology giants like Apple, NVIDIA, and Microsoft, known for their consistent innovation and stable growth. My enthusiasm for NVIDIA stems from their pioneering work with GPT models and AI technologies, which I believe are crucial for future technological advancements. While these investments have brought in annual returns of **17%** to **25%**, I have consciously avoided Tesla due to its unpredictable market performance, which does not align with my investment criteria.
+<span style="font-size: larger; color: #8A2BE2;">Technology Stocks:</span> My equity investments are carefully chosen, focusing on technology giants like <span style="font-size: larger; color: #FF4500;">Apple, NVIDIA, and Microsoft</span>, known for their consistent innovation and stable growth. My enthusiasm for NVIDIA stems from their pioneering work with <span style="font-size: larger; color: #FF4500;">GPT</span> models and AI technologies, which I believe are crucial for future technological advancements. While these investments have brought in annual returns of <span style="font-size: larger; color: #FF4500;">17% to 25%</span>, I have consciously avoided Tesla due to its unpredictable market performance, which does not align with my investment criteria.
 
-**Cryptocurrency Ventures**:
-Four years ago, I recognized the transformative potential of Bitcoin and decided to invest, anticipating its rise as a mainstream method of transaction. This decision has resulted in extraordinary gains, with returns ranging from **100%** to **300%**, exemplifying the lucrative potential of well-timed investments in emerging markets.
+<span style="font-size: larger; color: #8A2BE2;">Cryptocurrency Ventures:</span> Four years ago, I recognized the transformative potential of Bitcoin and decided to invest, anticipating its rise as a mainstream method of transaction. This decision has resulted in extraordinary gains, with returns ranging from <span style="font-size: larger; color: #FF4500;">100% to 300%</span>, exemplifying the lucrative potential of well-timed investments in emerging markets.
 
-Insight and Global Perspective:
-Beyond mere financial gains, I am deeply involved in analyzing market trends and investment opportunities. I write extensive investment and research reports and travel extensively to assess economic conditions and real estate markets firsthand. These activities not only enhance my understanding but also ensure that my investment decisions are based on comprehensive global insights.
-
-
+Insight and Global Perspective: Beyond mere financial gains, I am deeply involved in analyzing market trends and investment opportunities. I write extensive investment and research reports and travel extensively to assess economic conditions and real estate markets firsthand. These activities not only enhance my understanding but also ensure that my investment decisions are based on comprehensive global insights.
 
 
 
