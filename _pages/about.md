@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+**Fourth Year PhD Student**:  Researcher in Optical Technologies, AI, and ML
+======
 Welcome to my academic and professional portfolio. I am a Research Assistant in [Dr. Jun xia's lab](https://www.acsu.buffalo.edu/~junxia/). at the University of Buffalo, where my research focuses on applying advanced AI technologies like deep learning and machine learning to biomedical challenges, including image denoising and the use of GPT models.
 
  Previously, at [Cornell University](https://www.bme.cornell.edu/bme/alumni/bme-newsletters/2021-bme-newsletter/class-2021-special-insert), I had the opportunity to work under [Professor Karl Lewis](https://www.kjlewislab.com/group-members), contributing to several innovative projects related to rat motion and surgical reconstruction with. 
@@ -14,7 +15,7 @@ Welcome to my academic and professional portfolio. I am a Research Assistant in 
 My initial work at the University of Kentucky involved developing technology for long-term monitoring of infant blood pressure using optical cameras. Under the where [Dr. Yu Guoqiang](https://bioptics.engr.uky.edu/) supervised on advanced optical and biomedical devices.  
 
 
-**My Entrepreneurial Story**: Pioneering Precision in Sensor Technology
+**Entrepreneur**: Innovating in High-Tech Sensor Engineering and Development
 ======
 I am an entrepreneur and a core developer at a leading high-tech company specializing in precision sensors. Known for our advanced laser and ultrasonic sensors, we excel in delivering products with high precision, superior quality, and competitive pricing. Having joined the company part-time in **2015**, I have dedicated nearly a **DECADE** to enhancing our technological capabilities and expanding our market presence. My extensive experience in both development and market strategy has been instrumental in driving our success and innovation.
 
@@ -25,14 +26,25 @@ In my role, I engage in a wide array of activities, from market research and dev
 This journey of over eight years reflects my dedication to innovation and excellence in the high-tech sensor industry, highlighting my role in driving the company's success and technological advancement.
 
 
-Getting started
+**Investor**
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Over the past decade, my investment portfolio has flourished across diverse arenas such as real estate, technology stocks, and cryptocurrencies, each contributing significantly to my financial success.
+
+**Real Estate Investments**:
+I have strategically acquired properties in major global economic centers including Beijing, California, Toronto, Xi'an, Yunnan, and Shanghai. These investments have not only yielded rich dividends but also provided a stable foundation for my portfolio, balancing out more volatile sectors.
+
+**Technology Stocks**:
+My equity investments are carefully chosen, focusing on technology giants like Apple, NVIDIA, and Microsoft, known for their consistent innovation and stable growth. My enthusiasm for NVIDIA stems from their pioneering work with GPT models and AI technologies, which I believe are crucial for future technological advancements. While these investments have brought in annual returns of **17%** to **25%**, I have consciously avoided Tesla due to its unpredictable market performance, which does not align with my investment criteria.
+
+**Cryptocurrency Ventures**:
+Four years ago, I recognized the transformative potential of Bitcoin and decided to invest, anticipating its rise as a mainstream method of transaction. This decision has resulted in extraordinary gains, with returns ranging from **100%** to **300%**, exemplifying the lucrative potential of well-timed investments in emerging markets.
+
+Insight and Global Perspective:
+Beyond mere financial gains, I am deeply involved in analyzing market trends and investment opportunities. I write extensive investment and research reports and travel extensively to assess economic conditions and real estate markets firsthand. These activities not only enhance my understanding but also ensure that my investment decisions are based on comprehensive global insights.
+
+
+
+
 
 Site-wide configuration
 ------
