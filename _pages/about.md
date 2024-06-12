@@ -1,19 +1,29 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome Yanda website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to my academic and professional portfolio. I am a Research Assistant in [Dr. Jun xia's lab](https://www.acsu.buffalo.edu/~junxia/). at the University of Buffalo, where my research focuses on applying advanced AI technologies like deep learning and machine learning to biomedical challenges, including image denoising and the use of GPT models.
 
-A data-driven personal website
+ Previously, at [Cornell University](https://www.bme.cornell.edu/bme/alumni/bme-newsletters/2021-bme-newsletter/class-2021-special-insert), I had the opportunity to work under [Professor Karl Lewis](https://www.kjlewislab.com/group-members), contributing to several innovative projects related to rat motion and surgical reconstruction with. 
+
+My initial work at the University of Kentucky involved developing technology for long-term monitoring of infant blood pressure using optical cameras. Under the where [Dr. Yu Guoqiang](https://bioptics.engr.uky.edu/) supervised on advanced optical and biomedical devices.  
+
+
+**My Entrepreneurial Story**: Pioneering Precision in Sensor Technology
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am an entrepreneur and a core developer at a leading high-tech company specializing in precision sensors. Known for our advanced laser and ultrasonic sensors, we excel in delivering products with high precision, superior quality, and competitive pricing. Having joined the company part-time in **2015**, I have dedicated nearly a **DECADE** to enhancing our technological capabilities and expanding our market presence. My extensive experience in both development and market strategy has been instrumental in driving our success and innovation.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Our operations currently extend across major markets such as Thailand, Singapore, the United States, and China. Looking ahead, we have strategic plans to enter the Middle East in 2025 as part of our ongoing global expansion. This year, we achieved a significant milestone, reaching an annual revenue of one hundred million dollars, underscoring our position as a leader in the global sensor market.
+
+In my role, I engage in a wide array of activities, from market research and development to the technical maintenance of our company website. I am deeply involved in sensor development, utilizing C and Python to integrate cutting-edge AI and GPT technologies into our products. This ensures that we not only adhere to but also exceed the high standards of accuracy and performance that our clients expect.
+
+This journey of over eight years reflects my dedication to innovation and excellence in the high-tech sensor industry, highlighting my role in driving the company's success and technological advancement.
+
 
 Getting started
 ======
