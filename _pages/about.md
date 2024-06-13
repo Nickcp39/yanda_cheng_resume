@@ -41,9 +41,12 @@ Insight and Global Perspective: Beyond mere financial gains, I am deeply involve
 
 
 
-Site-wide configuration
+**photographer**
+======
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I am an accomplished <span style="color: #82B0D2;">photographer</span> with a rich background in both leading a large <span style="color: #BEB8DC;">photography club</span> and working independently. My journey in photography began with managing a vibrant community of over a <span style="color: #FFBE7A;">hundred members</span>, where I honed my skills and gained substantial experience. This role involved coordinating and capturing a diverse array of events, from <span style="color: #8ECFC9;">large-scale</span> gatherings and <span style="color: #FA7F6F;">festival celebrations</span> to more intimate <span style="color: #E7DAD2;">small-scale</span> functions. Each event was a new opportunity to capture unique moments and emotions, broadening my perspective and enhancing my photographic finesse. Now, as a freelance <span style="color: #82B0D2;">street and portrait photographer</span>, I excel in capturing candid moments and the raw emotion of everyday life. My work focuses on bringing out the profound and often overlooked beauty of the urban landscape and its inhabitants, showcasing my passion for <span style="color: #BEB8DC;">street photography</span> and <span style="color: #FFBE7A;">portraiture</span>. This transition from a communal to a personal approach in photography has allowed me to refine a distinctive style that speaks to both the aesthetics and narratives inherent in my subjects.
+
+
 
 Create content & metadata
 ------
