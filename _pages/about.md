@@ -6,8 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+
+
+
+
+
 **Fourth Year PhD Student**:  Researcher in Optical Technologies, AI, and ML
 ======
+
 Welcome to my academic and professional portfolio. I am a Research Assistant in [Dr. Jun xia's lab](https://www.acsu.buffalo.edu/~junxia/). at the University of Buffalo, where my research focuses on applying advanced AI technologies like deep learning and machine learning to biomedical challenges, including image denoising and the use of GPT models.
 
  Previously, at [Cornell University](https://www.bme.cornell.edu/bme/alumni/bme-newsletters/2021-bme-newsletter/class-2021-special-insert), I had the opportunity to work under [Professor Karl Lewis](https://www.kjlewislab.com/group-members), contributing to several innovative projects related to rat motion and surgical reconstruction with. 
