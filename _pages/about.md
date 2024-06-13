@@ -15,15 +15,16 @@ Welcome to my academic and professional portfolio. I am a Research Assistant in 
 My initial work at the University of Kentucky involved developing technology for long-term monitoring of infant blood pressure using optical cameras. Under the where [Dr. Yu Guoqiang](https://bioptics.engr.uky.edu/) supervised on advanced optical and biomedical devices.  
 
 
-**Entrepreneur**: Innovating in High-Tech Sensor Engineering and Development
+<strong>Entrepreneur</strong>: Innovating in High-Tech Sensor Engineering and Development
 ======
-I am an entrepreneur and a core developer at a leading high-tech company specializing in precision sensors. Known for our advanced laser and ultrasonic sensors, we excel in delivering products with high precision, superior quality, and competitive pricing. Having joined the company part-time in **2015**, I have dedicated nearly a **DECADE** to enhancing our technological capabilities and expanding our market presence. My extensive experience in both development and market strategy has been instrumental in driving our success and innovation.
+I am an entrepreneur and a core developer at a leading high-tech company specializing in <span style="color: #3b6291;">precision sensors</span>. Known for our advanced <span style="color: #943c39;">laser</span> and <span style="color: #779043;">ultrasonic sensors</span>, we excel in delivering products with high precision, superior quality, and competitive pricing. Having joined the company part-time in <strong style="color: #624c7c;">2015</strong>, I have dedicated nearly a <strong style="color: #388498;">DECADE</strong> to enhancing our technological capabilities and expanding our market presence. My extensive experience in both development and market strategy has been instrumental in driving our success and innovation.
 
-Our operations currently extend across major markets such as Thailand, Singapore, the United States, and China. Looking ahead, we have strategic plans to enter the Middle East in 2025 as part of our ongoing global expansion. This year, we achieved a significant milestone, reaching an annual revenue of one hundred million dollars, underscoring our position as a leader in the global sensor market.
+Our operations currently extend across major markets such as <span style="color: #bf7334;">Thailand</span>, <span style="color: #3f6899;">Singapore</span>, the <span style="color: #9c403d;">United States</span>, and <span style="color: #7d9847;">China</span>. Looking ahead, we have strategic plans to enter the <span style="color: #675083;">Middle East</span> in <span style="color: #3b8ba1;">2025</span> as part of our ongoing global expansion. This year, we achieved a significant milestone, reaching an annual revenue of <span style="color: #c97937;">one hundred million dollars</span>, underscoring our position as a leader in the global sensor market.
 
-In my role, I engage in a wide array of activities, from market research and development to the technical maintenance of our company website. I am deeply involved in sensor development, utilizing C and Python to integrate cutting-edge AI and GPT technologies into our products. This ensures that we not only adhere to but also exceed the high standards of accuracy and performance that our clients expect.
+In my role, I engage in a wide array of activities, from market research and development to the technical maintenance of our company website. I am deeply involved in sensor development, utilizing <span style="color: #3b6291;">C</span> and <span style="color: #943c39;">Python</span> to integrate cutting-edge <span style="color: #779043;">AI</span> and <span style="color: #624c7c;">GPT technologies</span> into our products. This ensures that we not only adhere to but also exceed the high standards of accuracy and performance that our clients expect.
 
 This journey of over eight years reflects my dedication to innovation and excellence in the high-tech sensor industry, highlighting my role in driving the company's success and technological advancement.
+
 
 
 **Investor**
