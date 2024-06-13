@@ -41,10 +41,13 @@ Insight and Global Perspective: Beyond mere financial gains, I am deeply involve
 
 
 
-**photographer**
+**Photographer**
 ======
 ------
-I am an accomplished <span style="color: #82B0D2;">photographer</span> with a rich background in both leading a large <span style="color: #BEB8DC;">photography club</span> and working independently. My journey in photography began with managing a vibrant community of over a <span style="color: #FFBE7A;">hundred members</span>, where I honed my skills and gained substantial experience. This role involved coordinating and capturing a diverse array of events, from <span style="color: #8ECFC9;">large-scale</span> gatherings and <span style="color: #FA7F6F;">festival celebrations</span> to more intimate <span style="color: #E7DAD2;">small-scale</span> functions. Each event was a new opportunity to capture unique moments and emotions, broadening my perspective and enhancing my photographic finesse. Now, as a freelance <span style="color: #82B0D2;">street and portrait photographer</span>, I excel in capturing candid moments and the raw emotion of everyday life. My work focuses on bringing out the profound and often overlooked beauty of the urban landscape and its inhabitants, showcasing my passion for <span style="color: #BEB8DC;">street photography</span> and <span style="color: #FFBE7A;">portraiture</span>. This transition from a communal to a personal approach in photography has allowed me to refine a distinctive style that speaks to both the aesthetics and narratives inherent in my subjects.
+I am a  <span style="color: #82B0D2;">photographer</span> with extensive experience spanning over <span style="color: #FFBE7A;">6+</span> years, specializing in capturing dynamic human expressions and urban landscapes. My photographic journey is highlighted by my leadership of a large <span style="color: #BEB8DC;">photography club</span> comprising over <span style="color: #FFBE7A;">100+ members</span>, where I orchestrated the documentation of countless events ranging from grand festival celebrations to intimate gatherings. This vast community allowed me to refine my skills across diverse settings, making each event a unique showcase of my ability to capture compelling stories through my lens.
+
+Now working independently, I thrive as a freelance <span style="color: #82B0D2;">street and portrait photographer</span>. My expertise lies in revealing the intricate beauty and raw emotions of day-to-day activities, which I portray through my adept use of natural light and composition. My focus on <span style="color: #BEB8DC;">street photography</span> and <span style="color: #FFBE7A;">portraiture</span> enables me to produce striking images that resonate with authenticity and artistic flair. Managing a photography group of <span style="color: #FFBE7A;">100+ individuals</span> has not only bolstered my organizational capabilities but also enriched my perspective, allowing me to capture a broad spectrum of human experiences with my camera.
+
 
 
 
