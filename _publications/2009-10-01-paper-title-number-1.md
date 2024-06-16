@@ -10,7 +10,7 @@ issue: '1'
 pages: '012705-012705'
 publisher: 'Society of Photo-Optical Instrumentation Engineers (SPIE)'
 
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'  # Update this if you have a specific link to the paper PDF
+paperurl: 'http://academicpages.github.io/files/yanda_paper01.pdf'  # Update this if you have a specific link to the paper PDF
 
 citation: 'X Liu, Y Gu, C Huang, M Zhao, Y Cheng, EGA Jawdeh, HS Bada, L Chen, G Yu. (2021). "Simultaneous measurements of tissue blood flow and oxygenation using a wearable fiber-free optical sensor." <i>Journal of Biomedical Optics</i>, 26(1), 012705.'
 ---
